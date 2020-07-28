@@ -4,8 +4,8 @@ Living in the PNW, I've been going hiking very often during quarantine, so I dec
 
 Created a hiking log to record completed hikes; tracks total miles and elevation climbed throughout the year
 
-HikeInfo sets up what data a hike can provide
+HikeInfo.java sets up what data a hike can provide
 
-HikingLog is the actual program, uses HikeInfo and doubly linked lists to keep a record of completed hikes
+HikingLog.java is the actual program, uses HikeInfo and doubly linked lists to keep a record of completed hikes
 
-HikingJournal is an example test code
+HikingJournal.java is an example test code
